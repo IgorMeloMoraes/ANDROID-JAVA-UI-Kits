@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/p809491/AndroidStudioProjects/Modulos Curso Android Studio/8. UI Desing/UiDesing/app/src/main/res/drawable/bt_background_azul.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/p809491/AndroidStudioProjects/Modulos Curso Android Studio/8. UI Desing/UiDesing/app/src/main/res/layout/activity_cadastro.xml" value="0.15833333333333333" />
+        <entry key="..\:/Users/p809491/AndroidStudioProjects/Modulos Curso Android Studio/8. UI Desing/UiDesing/app/src/main/res/layout/activity_login.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/p809491/AndroidStudioProjects/UiDesing/app/src/main/res/drawable/bt_background_azul.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/p809491/AndroidStudioProjects/UiDesing/app/src/main/res/drawable/bt_background_azul2.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/p809491/AndroidStudioProjects/UiDesing/app/src/main/res/drawable/edt_backgroung_cinza.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/p809491/AndroidStudioProjects/UiDesing/app/src/main/res/layout/activity_cadastro.xml" value="0.2226762002042901" />
+        <entry key="..\:/Users/p809491/AndroidStudioProjects/UiDesing/app/src/main/res/layout/activity_intro.xml" value="0.25" />
+        <entry key="..\:/Users/p809491/AndroidStudioProjects/UiDesing/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/p809491/AndroidStudioProjects/UiDesing/app/src/main/res/layout/activity_main.xml" value="0.2226762002042901" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
